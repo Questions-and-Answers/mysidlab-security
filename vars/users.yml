@@ -1,8 +1,8 @@
 ---
 users:
-  - name: melio1
+  - name: melioA
     aws_groups: "sacramento, fresno, indio"
-  - name: melio2
+  - name: melioB
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: melio3
+  - name: melioB
     aws_groups: "palmsprings, indio, sandiego"
